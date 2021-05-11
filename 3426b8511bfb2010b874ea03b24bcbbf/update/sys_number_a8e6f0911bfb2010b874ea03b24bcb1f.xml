@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_420565_app_creat_app_creator1">x_420565_app_creat_app_creator1</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>APC</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-27 14:28:25</sys_created_on>
+        <sys_id>a8e6f0911bfb2010b874ea03b24bcb1f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>APC</sys_name>
+        <sys_package display_value="App Creator Test" source="x_420565_app_creat">3426b8511bfb2010b874ea03b24bcbbf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App Creator Test">3426b8511bfb2010b874ea03b24bcbbf</sys_scope>
+        <sys_update_name>sys_number_a8e6f0911bfb2010b874ea03b24bcb1f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-27 14:28:25</sys_updated_on>
+    </sys_number>
+</record_update>
